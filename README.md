@@ -1,0 +1,2 @@
+# SyncRedmineToNotion
+Powershellで書いたRedmineチケット情報をNotionに同期するScript
